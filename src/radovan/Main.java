@@ -8,6 +8,7 @@ public class Main {
 
 		System.out.println("June was here");
 		System.out.println("Andrija was here!");
+		System.out.println("Student was here");
 		
 		
 	}
